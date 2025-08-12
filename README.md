@@ -1,4 +1,5 @@
 Hotel Booking Analysis 🏨
+
 📌 Project Overview
 This case study explores hotel booking data to uncover patterns in customer behavior, cancellations, pricing trends, and seasonality.
 The dataset contains detailed booking information for city and resort hotels, including guest demographics, booking channels, lead times, and reservation outcomes.
