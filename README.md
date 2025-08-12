@@ -6,6 +6,7 @@ The dataset contains detailed booking information for city and resort hotels, in
 Through data cleaning, feature engineering, and visual analysis, the goal is to provide actionable insights for hotel management to improve operational efficiency and customer satisfaction.
 
 📂 Dataset
+
 Source: hotel_bookings.csv
 
 Key Columns:
@@ -31,6 +32,7 @@ adr – Average Daily Rate
 And more...
 
 🛠 Steps Performed
+
 1. Data Cleaning & Preprocessing
 Filled missing values (children, agent, company, country)
 
@@ -73,6 +75,7 @@ Heatmaps for cancellation patterns
 Stacked bar charts for customer type and market segment
 
 📊 Key Insights
+
 High cancellation rates linked to certain deposit types and market segments.
 
 Seasonality effects with peak bookings in specific months for both hotels.
